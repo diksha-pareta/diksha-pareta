@@ -8,7 +8,7 @@
   <a href="mailto:diksha24118@iiitd.ac.in">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/diksha-pareta">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Location-Rajasthan,_India-blue?style=for-the-badge" />
@@ -60,8 +60,8 @@ M.Tech student in Computer Science at IIIT Delhi with a strong foundation in mac
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=diksha-pareta&show_icons=true&theme=default&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diksha-pareta&layout=compact&hide_border=true" height="150" />
 </p>
 
 ---
