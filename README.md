@@ -1,29 +1,37 @@
 <h1 align="center">Hi, I'm Diksha Kumari Pareta 👋</h1>
 
 <p align="center">
-  <b>M.Tech (CSE) · IIIT Delhi &nbsp;|&nbsp; ML / AI &amp; Data Science</b>
+  <b>Assistant Professor · DIT University &nbsp;|&nbsp; CSE &amp; Machine Learning</b>
 </p>
 
 <p align="center">
-  <a href="mailto:diksha24118@iiitd.ac.in">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://github.com/diksha-pareta">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Location-Rajasthan,_India-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Role-Assistant_Professor-6E40C9?style=for-the-badge" />
 </p>
 
 ---
 
-### 👩‍💻 About me
+### 👩‍🏫 About me
 
-M.Tech student in Computer Science at IIIT Delhi with a strong foundation in machine learning, NLP, and data science. I enjoy building end-to-end ML pipelines, GenAI applications, and interactive dashboards. Passionate about applying AI to solve real-world problems.
+Assistant Professor in the Department of Computer Science at DIT University. I teach core CSE fundamentals and Machine Learning, and I'm passionate about making complex concepts accessible to students. My background spans ML pipelines, NLP, and GenAI — areas I actively explore alongside my teaching.
 
-- 🎓 **GATE 2024 qualified** — Computer Science (CS) & Data Science & AI (DA)
+- 🎓 **M.Tech (CSE)** — IIIT Delhi
+- 🎓 **B.Tech (CSE)** — Mahila Engineering College, Ajmer
+- ✅ **GATE 2024 qualified** — CS and Data Science & AI (DA)
 - 🏆 **AIR 30** in Post Graduate Common Admission Test (PGCAT)
-- 🌱 Currently exploring GenAI, RAG pipelines, and transformer fine-tuning
-- 📫 Reach me at **diksha24118@iiitd.ac.in**
+- 🌱 Interests: Machine Learning · NLP · GenAI · RAG pipelines
+
+---
+
+### 📚 Teaching areas
+
+| Subject | Area |
+|---|---|
+| **CSE Fundamentals** | Data Structures & Algorithms · OS · DBMS · OOP |
+| **Machine Learning** | Supervised/Unsupervised Learning · Model Evaluation · Feature Engineering |
 
 ---
 
@@ -33,10 +41,9 @@ M.Tech student in Computer Science at IIIT Delhi with a strong foundation in mac
 |---|---|
 | **Languages** | Python · SQL · C/C++ |
 | **ML / Data science** | scikit-learn · pandas · NumPy · EDA · Time Series · Feature Engineering |
-| **GenAI & NLP** | RAG · FAISS · Transformers · Prompt Engineering · LLM APIs (OpenAI, OSS) |
+| **GenAI & NLP** | RAG · FAISS · Transformers · Prompt Engineering · LLM APIs |
 | **Visualization** | Streamlit · Power BI · matplotlib · seaborn |
-| **Tools & platforms** | Git · Hugging Face · Jupyter Notebook · VS Code · MySQL · Google Colab |
-| **Coursework** | Machine Learning · NLP · DBMS · DSA · Operating Systems · OOP |
+| **Tools & platforms** | Git · Hugging Face · Jupyter Notebook · VS Code · MySQL |
 
 ---
 
@@ -45,15 +52,6 @@ M.Tech student in Computer Science at IIIT Delhi with a strong foundation in mac
 - 🥇 **AIR 30** — Post Graduate Common Admission Test (PGCAT)
 - ✅ **GATE 2024 qualified** — CS and Data Science & AI (DA)
 - 🏆 **Gargi Puraskar** — Academic excellence in 10th and 12th grade
-
----
-
-### 💼 Experience
-
-**Data Science Intern** — Diginique TechLabs (with iHUB DivyaSampark, IIT Roorkee) *(Jun–Jul 2024)*
-- Cleaned and transformed 10K+ aviation records using pandas, enabling forecasting workflows
-- Built and automated a Streamlit dashboard, reducing manual reporting effort by **40%**
-- Performed EDA and forecasting experiments to identify seasonal patterns
 
 ---
 
@@ -67,5 +65,5 @@ M.Tech student in Computer Science at IIIT Delhi with a strong foundation in mac
 ---
 
 <p align="center">
-  <i>Always learning · Open to research collaborations and internships</i>
+  <i>Teaching · Building · Always learning</i>
 </p>
