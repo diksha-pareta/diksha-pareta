@@ -8,7 +8,7 @@
   <a href="https://github.com/diksha-pareta">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Rajasthan,_India-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Delhi,_India-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Role-Assistant_Professor-6E40C9?style=for-the-badge" />
 </p>
 
